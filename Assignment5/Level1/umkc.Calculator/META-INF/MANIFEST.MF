@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Calculator
+Bundle-SymbolicName: umkc.Calculator
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: umkc.calculator.Activator
+Bundle-Vendor: Bharat
+Require-Bundle: org.eclipse.core.runtime,
+ edu.uci.isr.myx.fw;bundle-version="4.1.50"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy

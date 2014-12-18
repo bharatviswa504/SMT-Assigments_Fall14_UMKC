@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="com.objectsbydesign.calc.mode.Command">
+      <cmdclass
+            class="edu.umkc.bharat.calcext.OperationCommand"></cmdclass>
+   </extension>
+
+</plugin>

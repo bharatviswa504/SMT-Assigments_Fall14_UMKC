@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: CalcExt
+Bundle-SymbolicName: edu.umkc.Bharat.CalcExt;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: edu.umkc.bharat.calcext.Activator
+Bundle-Vendor: Bharat Viswanadham
+Require-Bundle: org.eclipse.core.runtime,
+ edu.umkc.Bharat.CalcExtp;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
